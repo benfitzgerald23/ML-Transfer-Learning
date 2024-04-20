@@ -12,3 +12,4 @@ https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/d
 ## File Descriptions
 
 - `Transfer_Learning_for_Traffic_Sign_Recognition.ipynb`: Jupyter Notebook containing the code for training the traffic sign classifier.
+- `Transfer Learning Assignment Poster.pdf`: Poster for Transfer Learning for Traffic Sign Recognition
